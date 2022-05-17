@@ -1,0 +1,12 @@
+body{
+    background-image: url(../img/img/fundo.jpg);
+}
+
+h1{
+    text-align: center;
+    color: azure;
+}
+
+.card img{
+    height: 250px;
+}
